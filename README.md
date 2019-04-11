@@ -1,6 +1,6 @@
 # Arduino-y-Processing
 
 
-Codigo variado de Arduino y Processing par aprototipos de salas de escape
+Codigo variado de Arduino y Processing para prototipos de salas de escape.
 
 
